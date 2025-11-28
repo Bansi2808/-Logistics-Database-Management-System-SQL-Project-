@@ -116,3 +116,6 @@ This SQL project demonstrates strong data engineering & analysis capabilities:
 ✔ Analytical SQL
 
 It mirrors real-world logistics operations and showcases end-to-end mastery of SQL for backend and analytics roles.
+
+## Author 
+Bansi Shah
